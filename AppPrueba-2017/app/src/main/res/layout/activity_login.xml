@@ -8,7 +8,13 @@
     android:orientation="vertical"
     tools:context="pe.edu.sise.appprueba_2017.LoginActivity">
 
-
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="20dp"
+        android:textSize="50dp"
+        android:text="Sise"
+        />
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
